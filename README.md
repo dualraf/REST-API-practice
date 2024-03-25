@@ -6,5 +6,7 @@ npm install -D nodemon
 npm install express body-parser cookie-parser compression cors
 npm install -D @types/express @types/body-parser @types/cookie-parser @types/compression @types/cors
 npm install mongodb
-npm install mongoose
+npm install mongoose\n
 npm i -D @types/mongoose
+npm install lodash
+npm install -D @types/lodash
